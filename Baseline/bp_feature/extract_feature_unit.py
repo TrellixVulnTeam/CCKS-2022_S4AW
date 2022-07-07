@@ -270,4 +270,3 @@ if __name__ == '__main__':
     writer = csv.DictWriter(tsvfile, delimiter='\t', fieldnames=FIELDNAMES)
     get_bp_feature(args, table_data, predictor, writer)
     tsvfile.close()
-
