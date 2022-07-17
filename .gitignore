@@ -3,3 +3,17 @@
 /Baseline/Capture/result/result.zip
 /Baseline/Capture/testv2/item_train_features.tsv
 /Baseline/Capture/testv2/item_valid_features.tsv
+.DS_Store
+*.iml
+/Industry/大服饰.jsonl
+/Industry/大百货.jsonl
+/Industry/消费电子.jsonl
+/Industry/美妆洗护.jsonl
+/Industry/食品.jsonl
+/Industry/Attribute/
+/Industry/convert/
+/Industry/美妆洗护/
+/Industry/大服饰/
+/Industry/ʳƷ/
+/Industry/大百货/
+/Industry/消费电子/
